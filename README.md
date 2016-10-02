@@ -1,1 +1,1 @@
-# my test folder
+# my test directory
